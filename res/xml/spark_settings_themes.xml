@@ -152,7 +152,7 @@
             android:key="persist.sys.flags.combined_qs_headers"
             android:title="@string/combined_qs_headers_title"
             android:summary="@string/combined_qs_headers_summary" 
-            android:defaultValue="true"/>
+            android:defaultValue="false"/>
 
      <!-- QS UI -->
     <com.spark.settings.preferences.SystemSettingListPreference
